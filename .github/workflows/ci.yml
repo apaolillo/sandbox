@@ -26,3 +26,6 @@ jobs:
 
     - name: run the tests
       run: pytest src.py
+
+    - name: format check
+      run: black --check src.py
