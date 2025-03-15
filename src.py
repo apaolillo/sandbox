@@ -13,6 +13,7 @@ def main():
 
 if __name__ == "__main__":
     print("hello there!")
+    print("Arno was here")
     print("salut from Adil")
     print("hello from Romain")
     main()
