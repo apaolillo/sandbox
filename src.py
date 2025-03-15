@@ -13,6 +13,8 @@ def main():
 
 if __name__ == "__main__":
     print("hello there!")
+    a = input("What is the answer of life, the universe and everything? ")
+    print(a)
     print("Arno was here")
     print("salut from Adil")
     print("hello from Romain")
